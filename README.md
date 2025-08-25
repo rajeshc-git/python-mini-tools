@@ -26,6 +26,9 @@ git clone https://github.com/rajeshc-git/python-mini-tools.git
 
 
 
+--------------------------------------------x------------------------------
+
+
 # Play Store Fetcher 🛍️
 
 **Play Store Fetcher** is a simple Windows executable tool that extracts detailed information about any app on the Google Play Store. It provides insights like the number of downloads, reviews, ratings, and other key app details.  
