@@ -25,7 +25,4 @@ This repository contains small Python tools that I have built to make everyday t
 git clone https://github.com/rajeshc-git/python-mini-tools.git
 
 
---------------------------------------------x------------------------------
-
-
 
